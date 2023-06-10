@@ -1,7 +1,7 @@
 - 👋 ola! eu sou o @elisondaorinha
 - 👀 eu gosto de criar jogos, fazer pixel art e jogar jogos
 - 🌱 to aprendendo a melhorar minha pixel art
-- 💞️ to colaborando com nada
+- 💞️ to colaborando em nada
 - 📫 meu email é:elisondaorinhaaa@gmail.com
 
 <!---
